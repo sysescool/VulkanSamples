@@ -1,3 +1,7 @@
+docker/Sdk
+docker/cmdline-tools
+glslang/*
+spirv-tools/*
 CMakeCache.txt
 CMakeLists.txt.user
 CMakeFiles/
